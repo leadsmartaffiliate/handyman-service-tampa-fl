@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handyman-service-tampa-fl.netlify.app/sitemap.xml
